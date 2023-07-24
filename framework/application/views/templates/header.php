@@ -1,8 +1,9 @@
     <!DOCTYPE html>
 
     <head>
-        CodeIgniter Tutorial
+        <title>CodeIgniter Tutorial</title>
     </head>
 
     <body>
         <hi><?php echo "hello"; ?></hi>
+        <br><br>

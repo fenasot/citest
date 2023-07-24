@@ -1,0 +1,24 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "framework\\application\\config\\routes.php",
+            "group": "Default"
+        },
+        {
+            "filePath": "framework\\application\\models",
+            "group": "Default"
+        },
+        {
+            "filePath": "framework\\application\\views",
+            "group": "Default"
+        },
+        {
+            "filePath": "framework\\application\\controllers",
+            "group": "Default"
+        },
+        {
+            "filePath": "framework\\application\\public",
+            "group": "Default"
+        }
+    ]
+}
