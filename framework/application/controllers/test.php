@@ -15,8 +15,7 @@ class Test extends CI_Controller
         }
         $this->load->view('templates/bootheader');
         $this->load->view('bootstraptest/' . $page);
-        $this->load->view('bootstraptest/test');
+        $this->load->view('bootstraptest/home');
         $this->load->view('templates/bootfooter');
-        $this->load->view('templates/footer');
     }
 }
