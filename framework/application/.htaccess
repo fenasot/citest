@@ -1,6 +1,6 @@
 <IfModule authz_core_module>
     Require all denied
-    <FilesMatch "\.(css|js|jpe?g|png|gif|csv|json|image)$">
+    <FilesMatch "\.(css|js|jpe?g|png|gif|csv|json|pdf)$">
         Require all granted
     </FilesMatch>
 </IfModule>
