@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.1.1, created on 2023-08-21 07:47:54
+/* Smarty version 4.1.1, created on 2023-08-21 10:08:32
   from 'D:\codes\citest\framework\application\views\templates\button.php' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.1',
-  'unifunc' => 'content_64e2fa8a814546_57324272',
+  'unifunc' => 'content_64e31b8026bd52_39290355',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9c9a9250bce65455597740984a15ca6d638947a5' => 
     array (
       0 => 'D:\\codes\\citest\\framework\\application\\views\\templates\\button.php',
-      1 => 1692596802,
+      1 => 1692605310,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_64e2fa8a814546_57324272 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64e31b8026bd52_39290355 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html>
 
@@ -38,14 +38,14 @@ function content_64e2fa8a814546_57324272 (Smarty_Internal_Template $_smarty_tpl)
     <form method="get" action="http://localhost/loller/index">
         <button style="width:200px; height:100px" type="submit">下載預覽PDF</button>
     </form>
-    <form method="get" action="http://localhost/loller/download_all_watermark">
-        <button style="width:200px; height:100px" type="submit">下載整份PDF(浮水印)</button>
+    <form method="get" action="http://localhost/loller/index">
+        <button style="width:200px; height:100px" type="submit">下載整份PDF</button>
     </form>
-    <form method="get" action="http://localhost/loller/test">
-        <button style="width:200px; height:100px" type="submit">浮水印</button>
+    <form method="get" action="http://localhost/loller/download_all_watermark_small">
+        <button style="width:200px; height:100px" type="submit">下載整份PDF(small)</button>
     </form>
     <form method="get" action="http://localhost/loller/test2">
-        <button style="width:200px; height:100px" type="submit">Josh測試</button>
+        <button style="width:200px; height:100px" type="submit">原檔案</button>
     </form>
 
 

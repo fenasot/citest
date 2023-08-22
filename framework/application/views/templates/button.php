@@ -14,13 +14,13 @@
         <button style="width:200px; height:100px" type="submit">下載預覽PDF</button>
     </form>
     <form method="get" action="http://localhost/loller/index">
-        <button style="width:200px; height:100px" type="submit">下載整份PDF(浮水印)</button>
+        <button style="width:200px; height:100px" type="submit">下載整份PDF</button>
     </form>
-    <form method="get" action="http://localhost/loller/download_all_wawtermark_small">
-        <button style="width:200px; height:100px" type="submit">浮水印</button>
+    <form method="get" action="http://localhost/loller/download_all_watermark_small">
+        <button style="width:200px; height:100px" type="submit">下載整份PDF(small)</button>
     </form>
     <form method="get" action="http://localhost/loller/test2">
-        <button style="width:200px; height:100px" type="submit">Josh測試</button>
+        <button style="width:200px; height:100px" type="submit">原檔案</button>
     </form>
 
 
